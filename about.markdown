@@ -1,0 +1,28 @@
+---
+layout: page
+permalink: /about/
+#image: /assets/images/wp2284543.jpg
+---
+I am a Project Assistant at IISc working on project [EqWATER](https://imprint-india.org/intelligent-water-supply-network-monitoring-and-control-for-equitable-distribution-of-water-within-a-mega-city-eqwater). My work involves detecting leaks in a cyber-physical water distribution system which would be applied to the Bangalore water supply. Before this, I was an Area Manager Intern at Amazon for about 6 months. I have spent the summer after my junior year at TIFR, working on Image Processing and the summer after my sophomore year at Putzmeister, working on Robotics.
+
+I completed my undergrad from BITS Pilani, Pilani in 2019.
+
+
+Interested in everything tech!  
+
+
+[<i class="fab fa-linkedin fa-5x"></i>](https://in.linkedin.com/in/samiran-gode-901941178) [<i class="fab fa-github fa-5x"></i>](https://github.com/samirangode)
+
+<!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic
+Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
+
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll -->
