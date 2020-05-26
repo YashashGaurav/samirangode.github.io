@@ -1,11 +1,11 @@
 # Sample site navigation bar links
-
-- title: Home
-  url: /about
-- title: Publications
-  url: /Publications
-- title: CV
-  url: /CV
+main:
+ - title: Home
+   url: /about
+ - title: Publications
+   url: /Publications
+ - title: CV
+   url: /CV
 # - title: Tags
 #   url: /tags/
 # - title: Recipes
