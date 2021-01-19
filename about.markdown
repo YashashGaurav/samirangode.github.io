@@ -3,7 +3,9 @@ layout: page
 permalink: /about/
 #image: /assets/images/wp2284543.jpg
 ---
-I am a Project Assistant at IISc working on project [EqWATER](https://imprint-india.org/intelligent-water-supply-network-monitoring-and-control-for-equitable-distribution-of-water-within-a-mega-city-eqwater). My work involves detecting leaks in a cyber-physical water distribution system which would be applied to the Bangalore water supply. Before this, I was an Area Manager Intern at Amazon for about 6 months. I have spent the summer after my junior year at TIFR, working on Image Processing and the summer after my sophomore year at Putzmeister, working on Robotics.
+Hi! I am a graduate student at Carnegie Mellon University in the Mechanical Engineering Department, majoring in Robotics.
+Before this I was working as an intern at the Data Science team at [Jupiter](https://jupiter.money/), a neobank for millenials, from July 2020 to December 2020. I worked on FAQ search using NLP and was responsible for setting up user behaviour analytics using Segment and Amplitude.  
+I was a Project Assistant at IISc working on project [EqWATER](https://imprint-india.org/intelligent-water-supply-network-monitoring-and-control-for-equitable-distribution-of-water-within-a-mega-city-eqwater) from Jul 2019 to July 2020. My work involved detecting leaks in a cyber-physical water distribution system which would be applied to the Bangalore water supply. Before that, I was an Area Manager Intern at Amazon for about 6 months from Jan 2019 to Jun 2019. I have spent the summer after my junior year at TIFR, working on Image Processing and the summer after my sophomore year at Putzmeister, working on Robotics.
 
 I completed my undergrad from BITS Pilani, Pilani in 2019.
 
