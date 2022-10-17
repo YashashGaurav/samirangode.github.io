@@ -12,9 +12,18 @@ I completed my undergrad from BITS Pilani, Pilani in 2019.
 
 ## Projects
 
-### Volume Rendering and Neural Radiance Fields
+## Volume Rendering and Neural Radiance Fields
 ![Spiral Rendering of Part 3](assets/images/part_3.gif)
+
+## 3D Dense SLAM system using ICP
+![ICP](assets/images/ICP.png)
+
+## Quadric SLAM
+![tetrahedron](assests/images/tetrahedron_gif.gif)
+![Quadric](assests/images/quadric.gif)
 
 
 [<i class="fab fa-linkedin fa-5x"></i>](https://in.linkedin.com/in/samiran-gode-901941178) [<i class="fab fa-github fa-5x"></i>](https://github.com/samirangode)
+
+
 
