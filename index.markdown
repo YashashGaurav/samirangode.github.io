@@ -17,7 +17,7 @@ I completed my undergrad from BITS Pilani, Pilani in 2019.
 
 
 ## Quadric SLAM
-![tetrahedron](assests/images/tetrahedron_gif.gif)
+![Tetrahedron](assests/images/tetrahedron_gif.gif)
 
 
 <!-- ![Quadric](assests/images/quadric.gif) -->
