@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: single
 ---
 Hi! I am a graduate student at Carnegie Mellon University in the Mechanical Engineering Department, majoring in Robotics. I am fortunate to be a part of the [Robot Perception Lab](https://rpl.ri.cmu.edu/), where I get to work on Object SLAM. 
 Before this I was an intern at the Data Science team at [Jupiter](https://jupiter.money/), a neobank for millenials, from July 2020 to December 2020. I worked on FAQ search using NLP and was responsible for setting up user behaviour analytics using Segment and Amplitude.  
