@@ -28,10 +28,12 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://samirangode.github.io/about/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Build settings
 # theme: jekyll-theme-so-simple
-remote_theme: "mmistakes/jekyll-theme-so-simple"
+# remote_theme: "mmistakes/jekyll-theme-so-simple"
+
 plugins:
   - jekyll-feed
 skin: "/assets/css/skins/dark.css"
