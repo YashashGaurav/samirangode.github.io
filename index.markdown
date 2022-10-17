@@ -15,8 +15,6 @@ I completed my undergrad from BITS Pilani, Pilani in 2019.
 ## Volume Rendering and Neural Radiance Fields
 ![Spiral Rendering of Part 3](assets/images/part_3.gif)
 
-## 3D Dense SLAM system using ICP
-![ICP](assets/images/ICP.png)
 
 ## Quadric SLAM
 ![tetrahedron](assests/images/tetrahedron_gif.gif)
@@ -25,7 +23,15 @@ I completed my undergrad from BITS Pilani, Pilani in 2019.
 ![Quadric](assests/images/quadric.gif)
 
 
+
+## 3D Dense SLAM system using ICP
+![ICP](assets/images/ICP.png)
+
 [<i class="fab fa-linkedin fa-5x"></i>](https://in.linkedin.com/in/samiran-gode-901941178) [<i class="fab fa-github fa-5x"></i>](https://github.com/samirangode)
+
+
+
+
 
 
 
