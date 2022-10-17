@@ -20,7 +20,7 @@ I completed my undergrad from BITS Pilani, Pilani in 2019.
 ![tetrahedron](assests/images/tetrahedron_gif.gif)
 
 
-![Quadric](assests/images/quadric.gif)
+<!-- ![Quadric](assests/images/quadric.gif) -->
 
 
 
