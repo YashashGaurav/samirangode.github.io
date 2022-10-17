@@ -20,12 +20,12 @@ I completed my undergrad from BITS Pilani, Pilani in 2019.
 ![Tetrahedron](assests/images/tetrahedron_gif.gif)
 
 
-<!-- ![Quadric](assests/images/quadric.gif) -->
+![Quadric](assests/images/quadric.gif)
 
 
 
 ## 3D Dense SLAM system using ICP
-![ICP](assets/images/ICP.png)
+<!-- ![ICP](assets/images/ICP.png) -->
 
 [<i class="fab fa-linkedin fa-5x"></i>](https://in.linkedin.com/in/samiran-gode-901941178) [<i class="fab fa-github fa-5x"></i>](https://github.com/samirangode)
 
